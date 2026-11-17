@@ -1,0 +1,15 @@
+.venv/
+.build/
+build/
+dist/
+tools/
+samples/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.log
+*.翻译进度.jsonl
+.env
+.env.*
+.vscode/
+.idea/

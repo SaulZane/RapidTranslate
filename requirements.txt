@@ -1,0 +1,5 @@
+lxml>=6.0,<7
+pypdf>=6,<7
+Pygments>=2.18,<3
+PyMuPDF>=1.26,<3
+pywin32>=308; sys_platform == 'win32'
